@@ -15,4 +15,11 @@ def add(a, b):
 ### Picture
 
 This is our picture.
-![Budj i budj.](first-post-16.12.2022/16.12.2022.jpg)
+{% imsize %}
+src: first-post-16.12.2022/16.12.2022.jpg
+alt: Dell Precision 5510 repair
+title: Cool beans!
+profile: thumbnail
+link: true
+linkProfile: huge
+{% endimsize %}
