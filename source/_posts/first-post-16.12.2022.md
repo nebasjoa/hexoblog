@@ -20,4 +20,4 @@ def add(a, b):
 ### Picture
 
 This is our picture.
-{% asset_img "16.12.2022.jpg" "This is an example image" %}
+![Budj i budj.](first-post-16.12.2022/16.12.2022.jpg)
