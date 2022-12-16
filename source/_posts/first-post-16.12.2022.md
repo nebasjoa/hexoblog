@@ -1,10 +1,5 @@
 ---
 title: First post
-tags:
-	- test
-categories:
-	- hexo
-comments: true
 ---
 This is your very first post. Indeed it is.
 
