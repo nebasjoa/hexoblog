@@ -16,7 +16,7 @@ def add(a, b):
 
 This is our picture.
 {% imsize %}
-src: first-post-16.12.2022/16.12.2022.jpg
+src: 16.12.2022.jpg
 alt: Dell Precision 5510 repair
 title: Cool beans!
 profile: thumbnail
