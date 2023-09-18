@@ -3,4 +3,4 @@ title: Ovo je Vera
 ---
 ## VERA
 
-![Vera](/assets/images/vera.jpg)
+![Vera](/images/vera.jpg)
